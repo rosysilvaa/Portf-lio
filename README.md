@@ -34,5 +34,5 @@ Minha formação é diversificada e estratégica, permitindo uma visão sistêmi
 - **Ser Educacional (7 anos e 8 meses):** Experiência consolidada em processos acadêmicos em modelo híbrido, desenvolvendo competências analíticas e organizacionais de longo prazo.
 
 ---
-## 📁 Link do Projeto: https://rosysilvaa.github.io/Portf-lio/
+## 📁 Link do Projeto: https://rosysilvaa.github.io/portfolio-roseane/
 
